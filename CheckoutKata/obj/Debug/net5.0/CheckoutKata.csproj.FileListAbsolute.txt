@@ -10,3 +10,15 @@ C:\Users\ejime\source\repos\ejimeoghenefejiro\CheckoutKata\CheckoutKata\Checkout
 C:\Users\ejime\source\repos\ejimeoghenefejiro\CheckoutKata\CheckoutKata\CheckoutKata\obj\Debug\net5.0\refint\CheckoutKata.dll
 C:\Users\ejime\source\repos\ejimeoghenefejiro\CheckoutKata\CheckoutKata\CheckoutKata\obj\Debug\net5.0\CheckoutKata.pdb
 C:\Users\ejime\source\repos\ejimeoghenefejiro\CheckoutKata\CheckoutKata\CheckoutKata\obj\Debug\net5.0\ref\CheckoutKata.dll
+C:\Users\ejime\source\repos\ejimeoghenefejiro\CheckoutKata\CheckoutKata\bin\Debug\net5.0\CheckoutKata.deps.json
+C:\Users\ejime\source\repos\ejimeoghenefejiro\CheckoutKata\CheckoutKata\bin\Debug\net5.0\CheckoutKata.dll
+C:\Users\ejime\source\repos\ejimeoghenefejiro\CheckoutKata\CheckoutKata\bin\Debug\net5.0\CheckoutKata.pdb
+C:\Users\ejime\source\repos\ejimeoghenefejiro\CheckoutKata\CheckoutKata\obj\Debug\net5.0\CheckoutKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ejime\source\repos\ejimeoghenefejiro\CheckoutKata\CheckoutKata\obj\Debug\net5.0\CheckoutKata.AssemblyInfoInputs.cache
+C:\Users\ejime\source\repos\ejimeoghenefejiro\CheckoutKata\CheckoutKata\obj\Debug\net5.0\CheckoutKata.AssemblyInfo.cs
+C:\Users\ejime\source\repos\ejimeoghenefejiro\CheckoutKata\CheckoutKata\obj\Debug\net5.0\CheckoutKata.csproj.CoreCompileInputs.cache
+C:\Users\ejime\source\repos\ejimeoghenefejiro\CheckoutKata\CheckoutKata\obj\Debug\net5.0\CheckoutKata.sourcelink.json
+C:\Users\ejime\source\repos\ejimeoghenefejiro\CheckoutKata\CheckoutKata\obj\Debug\net5.0\CheckoutKata.dll
+C:\Users\ejime\source\repos\ejimeoghenefejiro\CheckoutKata\CheckoutKata\obj\Debug\net5.0\refint\CheckoutKata.dll
+C:\Users\ejime\source\repos\ejimeoghenefejiro\CheckoutKata\CheckoutKata\obj\Debug\net5.0\CheckoutKata.pdb
+C:\Users\ejime\source\repos\ejimeoghenefejiro\CheckoutKata\CheckoutKata\obj\Debug\net5.0\ref\CheckoutKata.dll

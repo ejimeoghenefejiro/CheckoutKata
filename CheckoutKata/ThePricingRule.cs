@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 namespace CheckoutKata
 {
     public class ThePricingRule
-    {       
-        public class PricingRule
-        {
+    {      
+        
             public string SKU { get; } //Stock Keeping Unit (SKU) identifier.
             public int UnitPrice { get; } //Price per unit of the item.
             public int? SpecialQuantity { get; } //For the special pricing rule quantity
@@ -19,7 +18,7 @@ namespace CheckoutKata
             /// create a new instance of the PricingRule class.
             /// </summary>
            
-            public PricingRule(string sku, int unitPrice, int? specialQuantity = null, int? specialPrice = null)
+            public ThePricingRule(string sku, int unitPrice, int? specialQuantity = null, int? specialPrice = null)
             {
                 SKU = sku;
                 UnitPrice = unitPrice;
@@ -27,6 +26,6 @@ namespace CheckoutKata
                 SpecialPrice = specialPrice;
             }
 
-        }
+        
     }
 }
