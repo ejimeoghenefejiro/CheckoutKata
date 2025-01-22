@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ejime\\source\\repos\\ejimeoghenefejiro\\CheckoutKata\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF13B635-24F4-4234-AEE0-6F7DE3AB1116}|CheckoutKata.Tests\\CheckoutKata.Tests.csproj|c:\\users\\ejime\\source\\repos\\ejimeoghenefejiro\\checkoutkata\\checkoutkata.tests\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF13B635-24F4-4234-AEE0-6F7DE3AB1116}|CheckoutKata.Tests\\CheckoutKata.Tests.csproj|solutionrelative:checkoutkata.tests\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7754FBC4-A0BA-43E7-B939-B5BAB89105CE}|CheckoutKata\\CheckoutKata.csproj|c:\\users\\ejime\\source\\repos\\ejimeoghenefejiro\\checkoutkata\\checkoutkata\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7754FBC4-A0BA-43E7-B939-B5BAB89105CE}|CheckoutKata\\CheckoutKata.csproj|solutionrelative:checkoutkata\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "CheckoutTests.cs",
+              "DocumentMoniker": "C:\\Users\\ejime\\source\\repos\\ejimeoghenefejiro\\CheckoutKata\\CheckoutKata.Tests\\CheckoutTests.cs",
+              "RelativeDocumentMoniker": "CheckoutKata.Tests\\CheckoutTests.cs",
+              "ToolTip": "C:\\Users\\ejime\\source\\repos\\ejimeoghenefejiro\\CheckoutKata\\CheckoutKata.Tests\\CheckoutTests.cs",
+              "RelativeToolTip": "CheckoutKata.Tests\\CheckoutTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:05:16.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ThePricingRule.cs",
               "DocumentMoniker": "C:\\Users\\ejime\\source\\repos\\ejimeoghenefejiro\\CheckoutKata\\CheckoutKata\\ThePricingRule.cs",
               "RelativeDocumentMoniker": "CheckoutKata\\ThePricingRule.cs",
               "ToolTip": "C:\\Users\\ejime\\source\\repos\\ejimeoghenefejiro\\CheckoutKata\\CheckoutKata\\ThePricingRule.cs",
               "RelativeToolTip": "CheckoutKata\\ThePricingRule.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAlwA0AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T16:23:11.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Checkout.cs",
               "DocumentMoniker": "C:\\Users\\ejime\\source\\repos\\ejimeoghenefejiro\\CheckoutKata\\CheckoutKata\\Checkout.cs",
               "RelativeDocumentMoniker": "CheckoutKata\\Checkout.cs",
               "ToolTip": "C:\\Users\\ejime\\source\\repos\\ejimeoghenefejiro\\CheckoutKata\\CheckoutKata\\Checkout.cs",
               "RelativeToolTip": "CheckoutKata\\Checkout.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAArwFIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T16:16:39.778Z",
               "EditorCaption": ""
